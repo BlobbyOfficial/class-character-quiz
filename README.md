@@ -64,7 +64,7 @@ Made with chaos and caffeine by **BlobbyOfficial** ☕💥
 ## 🔗 Hosted Version
 
 Check it out live here:  
-[https://BlobbyOfficial.github.io/classmate-quiz/](https://BlobbyOfficial.github.io/classmate-quiz/)
+[https://BlobbyOfficial.github.io/class-character-quiz/](https://BlobbyOfficial.github.io/class-character-quiz/)
 
 ---
 
