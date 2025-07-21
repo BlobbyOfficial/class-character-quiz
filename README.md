@@ -6,7 +6,7 @@ Welcome to the **What Kind of Classmate Are You?** quiz — a silly, chaotic, fu
 
 ## 🚀 About
 
-This is a fun, dumb quiz where every answer you pick leads you down a different path of questions. After 8-10 questions, you get a final result revealing your “classmate character” — from the Quiet Kid to the Drama Clown, and all the weirdness in between.
+This is a fun, dumb quiz where every answer you pick leads you down a different path of questions. After 8–10 questions, you get a final result revealing your “classmate character” — from the Quiet Kid to the Drama Clown, and all the weirdness in between.
 
 Built with pure HTML, CSS, and JavaScript, this quiz works entirely in your browser with no backend needed.
 
@@ -14,58 +14,50 @@ Built with pure HTML, CSS, and JavaScript, this quiz works entirely in your brow
 
 ## 📂 How to Use
 
-1. Clone or download this repo  
-2. Open `index.html` in any modern browser (Chrome, Firefox, Edge, etc.)  
-3. Answer the questions honestly or troll your friends  
-4. See what kind of classmate you really are!
+1. Clone or download this repo:  
+   ```bash
+   git clone https://github.com/BlobbyOfficial/class-character-quiz.git
+Open index.html in any modern browser (Chrome, Firefox, Edge, etc.).
 
----
+Answer the questions honestly or troll your friends.
 
-## 🛠️ How It Works
+See what kind of classmate you really are!
 
-- The quiz is powered by JavaScript, which stores a **question tree**  
-- Each answer leads to a different next question or a final character result  
-- Your path through the quiz determines which classmate type you become  
-- Simple, colorful UI with big buttons and fun emojis for maximum chaos
+🛠️ How It Works
+The quiz is powered by JavaScript, which stores a question tree.
 
----
+Each answer leads to a different next question or a final character result.
 
-## 💡 Features
+Your path through the quiz determines which classmate type you become.
 
-- Fully branching quiz with 8–10 questions per playthrough  
-- Around 30 different final classmate results  
-- Mobile-friendly and easy to customize  
-- Ready to host on GitHub Pages or anywhere static files work
+Simple, colorful UI with big buttons and fun emojis for maximum chaos.
 
----
+💡 Features
+Fully branching quiz with 8–10 questions per playthrough.
 
-## 🖌️ Customization
+Around 30 different final classmate results.
 
-Want to add or change questions or results? Just edit the `questions` and `results` objects inside `script.js` — everything is commented and straightforward!
+Mobile‑friendly and easy to customize.
 
----
+Ready to host on GitHub Pages or anywhere static files work.
 
-## 📬 Feedback / Contributions
+🖌️ Customization
+Want to add or change questions or results? Just edit the questions and results objects inside script.js — everything is commented and straightforward!
 
+📬 Feedback / Contributions
 Feel free to open an issue or pull request if you want to suggest new questions, results, or styling improvements.
 
----
+🔗 Live Demo
+Check it out live here:
+https://BlobbyOfficial.github.io/class-character-quiz/
 
-## 📜 License
+🔗 Repository
+You can find the source code and contribute right here:
+github.com/BlobbyOfficial/class-character-quiz
 
-This project is open-source and free to use for fun and education.
+📜 License
+This project is open‑source and free to use for fun and education.
 
----
-
-Made with chaos and caffeine by **BlobbyOfficial** ☕💥
-
----
-
-## 🔗 Hosted Version
-
-Check it out live here:  
-[https://BlobbyOfficial.github.io/class-character-quiz/](https://BlobbyOfficial.github.io/class-character-quiz/)
-
----
+Made with chaos and caffeine by BlobbyOfficial ☕💥
 
 Have fun and may your classmate spirit guide you! 🎉
