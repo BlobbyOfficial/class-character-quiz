@@ -85,6 +85,6 @@ This project is totally free to use, share, and modify for fun and education. No
 
 ---
 
-Made with chaos, caffeine, and a pinch of madness by **BlobbyOfficial** ☕💥
+Made with a pinch of madness by **BlobbyOfficial** ☕💥
 
 Thanks for stopping by — now go find out what kind of classmate you really are! 🎉
